@@ -1,0 +1,34 @@
+{
+    "categories": [
+        {
+            "name": "前菜",
+            "items": [
+                {
+                    "name": "地瓜薯條",
+                    "price": 59,
+                    "description": "香甜多汁的口感"
+                },
+                {
+                    "name": "番茄醬",
+                    "price": 0,
+                    "description": "搭配薯條一起享用"
+                }
+            ]
+        },
+        {
+            "name": "主菜",
+            "items": [
+                {
+                    "name": "義大利麵",
+                    "price": 199,
+                    "description": "以牛肉醬為底的經典義大利麵"
+                },
+                {
+                    "name": "鮭魚排",
+                    "price": 150,
+                    "description": "時令新鮮的鮭魚，入口即化"
+                }
+            ]
+        }
+    ]
+}

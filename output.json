@@ -1,0 +1,39 @@
+{
+    "categories": [
+        {
+            "items": [
+                {
+                    "description": "香甜多汁的口感",
+                    "name": "地瓜薯條",
+                    "price": 12
+                },
+                {
+                    "description": "搭配薯條一起享用",
+                    "name": "番茄醬",
+                    "price": 0
+                }
+            ],
+            "name": "前菜"
+        },
+        {
+            "items": [
+                {
+                    "description": "以牛肉醬為底的經典義大利麵",
+                    "name": "義大利麵",
+                    "price": 40
+                },
+                {
+                    "description": "時令新鮮的鮭魚，入口即化",
+                    "name": "鮭魚排",
+                    "price": 30
+                },
+                {
+                    "description": "西班牙的代表美食，海鮮配料豐富、色彩繽紛",
+                    "name": "海鮮燉飯",
+                    "price": 48
+                }
+            ],
+            "name": "主菜"
+        }
+    ]
+}
